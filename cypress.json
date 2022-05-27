@@ -1,0 +1,5 @@
+{
+    "testFiles": ["**/*.feature","**/*.spec.js"],
+    "projectId": "dcmuhe",
+    "chromeWebSecurity": false
+}
